@@ -121,7 +121,7 @@ class FoodCategoryScreen extends StatelessWidget {
                     _FoodPromoCard(AppImages.specialOffer, 'Special Offer',),
                     _FoodPromoCard(AppImages.discount, 'Discount',),
                     _FoodPromoCard(AppImages.pizza, 'discount 30%', ),
-                    _FoodPromoCard(AppImages.khmerFood, 'Khmer Special',),
+                    _FoodPromoCard(AppImages.healthyfood, 'Healthyfood',),
                     _FoodPromoCard(AppImages.koreanFood, 'Korean Special',),
                     
                   ],
